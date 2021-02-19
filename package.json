@@ -17,6 +17,7 @@
     "@babel/plugin-proposal-object-rest-spread": "^7.12.13",
     "@babel/plugin-transform-modules-commonjs": "^7.12.13",
     "babel-cli": "^6.26.0",
+    "babel-polyfill": "^6.26.0",
     "css-loader": "^5.0.1",
     "express": "^4.17.1",
     "firebase": "^8.2.7",
@@ -38,6 +39,7 @@
     "redux-thunk": "^2.3.0",
     "sass-loader": "^10.1.1",
     "style-loader": "^2.0.0",
+    "url-loader": "^4.1.1",
     "uuid": "^8.3.2",
     "validator": "^13.5.2",
     "webpack": "^5.19.0"
